@@ -1,0 +1,15 @@
+.active {
+    color: rgb(255, 60, 0);
+}
+
+.App {
+    text-align: center;
+}
+
+
+
+.navbar {
+    background-color: gray;
+    align-items: end;
+    justify-content: end;
+}
